@@ -1,4 +1,8 @@
 ## Hi there 👋
+## Profile
+📞 **Email** | jseunghoon9075@gmail.com <br />
+✉ **Phone** | 010-9075-3368
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **jseunghoon9075-svg/jseunghoon9075-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
