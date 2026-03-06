@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Profile
-📞 **Email** | jseunghoon9075@gmail.com <br />
+📞 **Email** | jhing9075@gmail.com <br />
 ✉ **Phone** | 010-9075-3368
 **notion** | https://www.notion.so/2b7a113969be803f99b4c78960d07de8
 
